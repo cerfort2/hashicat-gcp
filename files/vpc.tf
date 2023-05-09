@@ -1,4 +1,4 @@
-network_name=guarav-network
+network_name="guarav-network"
 
 projectid=var.project
 
